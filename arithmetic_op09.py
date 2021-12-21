@@ -9,3 +9,10 @@
 # Create a variable called 'answer'.
 
 # Find the expression value assign to 'answer'. a+b - cd .
+
+
+a, b, c, d = 8, 3, 2, 4     # o'zgaruvchilar
+
+answer = a + b - c*d
+print(answer)
+

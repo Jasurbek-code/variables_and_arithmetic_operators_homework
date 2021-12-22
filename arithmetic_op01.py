@@ -8,5 +8,5 @@ num_two = 5   # ikkinchi o'zgaruvchi
 variable_total = num_one + num_two    # o'zgaruvchilar yig'indisi
 
 # yig'indi toq bo'lsa 1, juft bo'lsa 0 chiqadi
-print(variable_total + 3)
+print(variable_total)
 # o'zgarish bilan chiqdi

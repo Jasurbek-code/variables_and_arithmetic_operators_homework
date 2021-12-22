@@ -9,3 +9,4 @@ variable_total = num_one + num_two    # o'zgaruvchilar yig'indisi
 
 # yig'indi toq bo'lsa 1, juft bo'lsa 0 chiqadi
 print(variable_total)
+# o'zgarish bilan chiqdi
